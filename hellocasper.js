@@ -1,4 +1,5 @@
-var casper = require("casper").create(),
+var
+    casper = require("casper").create(),
     viewportSizes = [
         [320,480],
         [320,568],
